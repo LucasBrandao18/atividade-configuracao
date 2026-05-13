@@ -1,0 +1,2 @@
+# atividade-configuracao
+class activities
